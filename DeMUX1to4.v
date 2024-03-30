@@ -23,8 +23,10 @@
 module DeMUX1to4(y0,y1,y2,y3,s1,s0,I);
     input I,s0,s1;
     output y0,y1,y2,y3;
-                     //Write the logic for 1 to 4 DEMUX in dataflow modeling
-
-
-
+    assign s1n = ~ s1;
+    assign s0n = ~ s0;
+    assign y0 = I & s0n & s1n;
+    assign y1 = I & s0 & s1n;
+    assign y2 = I & s0n & s1;
+    assign y3 = I & s0 & s1;
 endmodule
