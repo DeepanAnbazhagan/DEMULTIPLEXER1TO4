@@ -1,13 +1,13 @@
 # DEMULTIPLEXER1TO4
-# AIM:
+# Aim:
 To simulate and synthesis DEMULTIPLEXER 1 TO 4 using Vivado software.
-# APPARATUS REQUIRED:
+# Apparatus Required:
 Vivado 2023.1 software.
 # Pin Diagram:
 ![image](https://github.com/RESMIRNAIR/DEMULTIPLEXER1TO4/assets/154305926/b6d81e6c-81ec-4f91-ae42-832a68f8facc)
-# Truth Table
+# Truth Table:
 ![image](https://github.com/RESMIRNAIR/DEMULTIPLEXER1TO4/assets/154305926/bb0a83c7-b4f3-463b-b422-f2ff65b1a0ee)
-# Circuit Diagram
+# Circuit Diagram:
 ![image](https://github.com/RESMIRNAIR/DEMULTIPLEXER1TO4/assets/154305926/dcd56444-97dd-454b-bddf-c7472c4af1de)
 ![image](https://github.com/RESMIRNAIR/DEMULTIPLEXER1TO4/assets/154305926/03fbbbdf-8ae3-4653-8047-7d4cbf555ccb)
 ![image](https://github.com/RESMIRNAIR/DEMULTIPLEXER1TO4/assets/154305926/f48cc07d-c76f-4d1c-8907-11e99711b751)
@@ -30,6 +30,6 @@ Vivado 2023.1 software.
 # Output:
 <img width="960" alt="Screenshot 2024-03-30 112951" src="https://github.com/DeepanAnbazhagan/DEMULTIPLEXER1TO4/assets/164902865/5ae7b88b-d5e1-4a3c-93fe-dd64e73574cd">
 
-# RESULT:
+# Result:
 Thus the simulate and synthesis of DEMULTIPLEXER 1 TO 4 is verified successfully by using Vivado software.
 
